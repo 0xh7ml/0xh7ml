@@ -3,7 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
 <h3 align="center">Tech enthusiast with a dream of breaking security</h3>
 <div align="center">
-<a href="https://facebook.com/dark.html"> ![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
+<a href="https://facebook.com/dark.html"> 
+
+![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
 </a><a href="https://twitter.com/0x_Saikat">
  ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
  </a><a href="https://instagram.com/saikat.py"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
@@ -24,7 +26,7 @@
 
 
 ## 🚀 Languages and Tools
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="345">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345">
 <p>
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
