@@ -39,11 +39,6 @@
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
 - ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
 - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
-
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&layout=compact?hide=c" width="200" />
-</div> 
- 
 <br>
 <br>
   
