@@ -27,7 +27,7 @@
 
 ## 🚀 Languages and Tools
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345">
-<p>
+<br><p>
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
