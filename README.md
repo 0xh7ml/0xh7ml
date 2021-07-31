@@ -27,7 +27,7 @@
 
 ## 🚀 Languages and Tools
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345">
-<br><p align="left" width="345">
+<br><p align="left" width="350">
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -44,12 +44,12 @@
 
 
 ## 📈 My Github Stats
-<a href="https://github.com/0xh7ml/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/0xh7ml/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true"/>
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true"/>
+</div>
 <br>
 <br>
 
