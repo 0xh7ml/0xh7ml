@@ -57,9 +57,9 @@
 
 ## ✅ Acknowledged By
 
-#### <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
+>> #### <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
 <br>
-<ul>
+>>> <ul>
     <li>
         <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
     </li>
@@ -89,11 +89,11 @@
 <br>
 
 ## 📁 Projects
-### <em>I have'nt completed any big projects yet but I'm highly interested to do any kind of projects. I made various kind of tools , designed few themes and developed them also. I hope so you will get more update about my projects form me .</em>
+>> ### <em>I have'nt completed any big projects yet but I'm highly interested to do any kind of projects. I made various kind of tools , designed few themes and developed them also. I hope so you will get more update about my projects form me .</em>
 <br>
 <br>
 
 ## 🌟 Testimonials
-#### <em> Coming Soon.. </em>
+>> #### <em> Coming Soon.. </em>
 <br>
 <br>
