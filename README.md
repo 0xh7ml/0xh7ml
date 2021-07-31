@@ -27,8 +27,6 @@
 <br>
 
 ## 📈 My Github Stats
-
-<center>
 <a href="https://github.com/0xh7ml/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
@@ -37,6 +35,7 @@
 </a>
 <br>
 <br>
+<center>
 <a href="https://github.com/0xh7ml/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&layout=default&custom_title=Language I used" />
 </a>
@@ -47,23 +46,23 @@
 
 ## ✅ Acknowledged By
 
-### <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
+#### <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
 <br>
 <ul>
     <li>
-        <h2><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h2>
+        <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
     </li>
     <li>
-        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://chaldal.com">Chaldal</a></h2>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://chaldal.com">Chaldal</a></h4>
     </li>
     <li>
-        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h2>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h4>
     </li>
     <li>
-        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento</a></h2>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento</a></h4>
     </li>
     <li>
-        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://bykea.com">Bykea</a></h2>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://bykea.com">Bykea</a></h4>
     </li>
     <li>
         <h2><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h2>
@@ -84,7 +83,7 @@
 <br>
 
 ## 🌟 Testimonials
-### <em> Coming Soon.. </em>
+#### <em> Coming Soon.. </em>
 <br>
 <br>
 <center>
