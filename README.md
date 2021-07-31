@@ -39,18 +39,17 @@
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 </div>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345"><br>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
 
 <br><br><p>
 
  **Note:** <em>Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </p>
 
-
 ## 📈 My Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radiul&hide_border=true" width=380/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=radical&hide_border=true" width="380"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radical&hide_border=true" width=380/>
 </div>
 <br>
 <br>
