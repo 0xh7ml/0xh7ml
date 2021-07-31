@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
 <h3 align="center">Tech enthusiast with a dream of breaking security</h3>
 <div align="center">
-<a href="https://facebook.com/dark.html"> 
+<a href="https://facebook.com/dark.htmlii"> 
 
 ![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
 </a><a href="https://twitter.com/0x_Saikat">
@@ -57,7 +57,7 @@
 
 ## ✅ Acknowledged By
 
-  <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
+  <br><em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
 <br>
  <ul>
     <li>
