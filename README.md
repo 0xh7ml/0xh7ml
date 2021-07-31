@@ -41,8 +41,11 @@
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 </div>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345"><br>
-<br><br><br>
-**Note:** Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<div align="center">
+
+**Note:** <em>Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+</div>
 
 
 ## 📈 My Github Stats
