@@ -27,7 +27,7 @@
 
 ## 🚀 Languages and Tools
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide=c" width="345">
-<br><br><p width="345">
+<br><p align="left" width="345">
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -39,18 +39,16 @@
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-</p><br>
-
-<br><br>
+</p><br><br><br>
 **Note:** Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ## 📈 My Github Stats
 <a href="https://github.com/0xh7ml/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/0xh7ml/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true" width="380"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true"/>
 </a>
 <br>
 <br>
