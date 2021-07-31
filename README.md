@@ -35,11 +35,9 @@
 </a>
 <br>
 <br>
-<center>
 <a href="https://github.com/0xh7ml/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&layout=default&custom_title=Language I used" />
 </a>
-</center>
 
 <br>
 <br>
