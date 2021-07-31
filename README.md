@@ -50,7 +50,7 @@
 ## 📈 My Github Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true" width=380/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radiul&hide_border=true" width=380/>
 </div>
 <br>
 <br>
