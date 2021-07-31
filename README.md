@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<h2> 🙋‍♂️ About Me</h2>
+## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
 - 🎓 Undergraduate
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
