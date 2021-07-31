@@ -27,7 +27,7 @@
 
 
 ## 🚀 Languages and Tools
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=KathanP19&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="380">
 <p>
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -43,7 +43,7 @@
 </p><br>
 
 
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** #### Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ## 📈 My Github Stats
