@@ -14,7 +14,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🚏 From Bangladesh
+- 🚏  From Bangladesh
 - 🎓 Undergraduate
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
 - 🌱 I’m currently learning **ReactJS & Django Web Framework**
@@ -27,8 +27,9 @@
 
 
 ## 🚀 Languages and Tools
-
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=KathanP19&show_icons=true&theme=radical" width="380">
+<p>
+ 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
@@ -38,8 +39,10 @@
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
-<br>
+ ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+</p><br>
+
+
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
