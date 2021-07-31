@@ -17,7 +17,6 @@
 - 🎓 Undergraduate
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
 - 🌱 I’m currently learning **ReactJS & Django Web Framework**
-- 🤔 I’m looking for help about bug hunting.
 - 📫 mail to: 0xh7ml.py@gmail.com
 - ⚡ Fun fact **I'm fond of playing games and go to travel often.** 
 
@@ -74,7 +73,7 @@
         <h4><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento</a></h4>
     </li>
     <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://bykea.com">Bykea</a></h4>
+        <h4><a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">Bykea</a></h4>
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h4>
