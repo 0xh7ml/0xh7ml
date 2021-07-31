@@ -1,16 +1,102 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**0xh7ml/0xh7ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
+<h3 align="center">Tech enthusiast with a dream of breaking security</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+- 🚏 From Bangladesh
+- 🎓 Undergraduate
+- 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
+- 🌱 I’m currently learning **ReactJS & Django Web Framework**
+- 🤔 I’m looking for help about bug hunting.
+- 📫 mail to: 0xh7ml.py@gmail.com
+- ⚡ Fun fact **I'm fond of playing games and go to travel often.** 
+
+<br>
+<br>
+
+
+## 🚀 Languages and Tools
+
+<p> 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
+
+<br>
+
+## 📈 My Github Stats
+
+<center>
+<a href="https://github.com/0xh7ml/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/0xh7ml/github-readme-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<br>
+<a href="https://github.com/0xh7ml/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&layout=default&custom_title=Language I used" />
+</a>
+</center>
+
+<br>
+<br>
+
+## ✅ Acknowledged By
+
+### <em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
+<br>
+<ul>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://chaldal.com">Chaldal</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://bykea.com">Bykea</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h2>
+    </li>
+    <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;"href="https://silvergoldbull.com/">Silver Gold Bull</a></h2>
+    </li>
+        <li>
+        <h2><a style="color:#2ac3de;text-decoration:none;"href="https://nordvpn.com/">NordVpn</a></h2>
+    </li>
+</ul>
+<br>
+<br>
+
+## 📁 Projects
+### <em>I have'nt completed any big projects yet but I'm highly interested to do any kind of projects. I made various kind of tools , designed few themes and developed them also. I hope so you will get more update about my projects form me .</em>
+<br>
+<br>
+
+## 🌟 Testimonials
+### <em> Coming Soon.. </em>
+<br>
+<br>
+<center>
+
+## 📡 Reach me out
+
+<br>
+<a href="https://facebook.com/dark.html">
+
+![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
+</a><a href="https://twitter.com/0x_Saikat">
+ ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+ </a><a href="https://instagram.com/saikat.py"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
+</center>
+
