@@ -43,7 +43,7 @@
 
 <br><br><p>
 
-**Note:** ###### <em>Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+###### **Note:** <em>Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </p>
 
 
