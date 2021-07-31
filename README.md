@@ -27,7 +27,7 @@
 
 
 ## 🚀 Languages and Tools
-<div align="left">
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&layout=compact?hide=c" width="220" />
 </div> 
 
