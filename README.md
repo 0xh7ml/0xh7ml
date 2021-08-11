@@ -87,8 +87,8 @@
 <br>
 <br>
 
-## 📁 Projects
-  <em>I have'nt completed any big projects yet but I'm highly interested to do any kind of projects. I made various kind of tools , designed few themes and developed them also. I hope so you will get more update about my projects form me .</em>
+## 📁 Demo Projects
+<img src="https://raw.githubusercontent.com/0xh7ml/0xh7ml.github.io/main/food_network/project_demo.png" width="100%">
 <br>
 <br>
 
