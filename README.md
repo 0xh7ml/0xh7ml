@@ -63,7 +63,7 @@
         <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
     </li>
     <li>
-        <img src="https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web1/1.5.0+DataCenter-Release-2259/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1" width="100%" height="40px">
+        <img src="https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web1/1.5.0+DataCenter-Release-2259/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1" height="40px" style="background-color:#FFFFFF;">
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h4>
