@@ -63,19 +63,21 @@
         <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
     </li>
     <li>
-        <img src="https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web1/1.5.0+DataCenter-Release-2259/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1" height="40px" style="background-color:#FFFFFF!important;border-radious:10px">
+        <img src="https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web1/1.5.0+DataCenter-Release-2259/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1" height="40px">
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h4>
     </li>
     <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento</a></h4>
+        <a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">
+         <img src="https://www.athento.com/wp-content/uploads/2020/10/Athento_logo-solo-HD-1024x324.png" height="40px">
+     </a>
     </li>
     <li>
-        <h4><a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">Bykea</a></h4>
+        <a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">https://www.bykea.com/wp-content/uploads/elementor/thumbs/28-1-opdhdkc79vhes4rtfn8m1ti1yph2lymbq5sp3zjgpu.png</a>
     </li>
     <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h4>
+        <a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/"><img src="https://pickme.lk/themes/pickme/assets/images/logo.svg" height="40px"></a>
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;"href="https://silvergoldbull.com/">Silver Gold Bull</a></h4>
