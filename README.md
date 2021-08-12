@@ -63,21 +63,20 @@
         <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
     </li>
     <li>
-     <a href="https://chaldal.com/">Chaldal</a>
+     <h4><a href="https://chaldal.com/">Chaldal</a></h4>
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h4>
     </li>
     <li>
-        <a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">
-         Athento
-     </a>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento
+     </a></h4>
     </li>
     <li>
-        <a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">Bykea</a>
+        <h4><a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">Bykea</a></h4>
     </li>
     <li>
-        <a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a>
+        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h4>
     </li>
     <li>
         <h4><a style="color:#2ac3de;text-decoration:none;"href="https://silvergoldbull.com/">Silver Gold Bull</a></h4>
