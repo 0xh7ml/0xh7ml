@@ -16,7 +16,7 @@
 - 🚏  From Bangladesh
 - 🎓 Undergraduate
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
-- 🌱 I’m currently learning **MERN Stack Devlopment**
+- 🌱 I’m currently learning **MERN Stack Development**
 - 📫 mail to: 0xh7ml.py@gmail.com
 - ⚡ Fun fact **I'm fond of playing games and go to travel often.** 
 
