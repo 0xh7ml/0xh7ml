@@ -93,7 +93,8 @@
 <br>
 
 ## 📁 Demo Projects
-<img src="https://raw.githubusercontent.com/0xh7ml/0xh7ml.github.io/main/food_network/project_demo.png" width="100%">
+<img src="https://raw.githubusercontent.com/0xh7ml/0xh7ml.github.io/main/food_network/project_demo.png" width="50%">
+<img src="https://raw.githubusercontent.com/0xh7ml/0xh7ml.github.io/main/leader_board/leader_board.png" width="50%">
 <br>
 <br>
 
