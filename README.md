@@ -10,8 +10,12 @@
  ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
  </a><a href="https://instagram.com/saikat.py"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
 </div>
-<br>
+<center>
+    
+![](https://visitor-badge.glitch.me/badge?page_id=0xh7ml)
 
+</center>
+</br>
 ## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
 - 🎓 Undergraduate
