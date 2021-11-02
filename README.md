@@ -1,8 +1,8 @@
-<a href="#"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="500" height="auto"/></a>
+<div align="center">
+<a href="#"><img align="left" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="500" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
 <h3 align="center">Tech enthusiast with a dream of breaking security</h3>
-<div align="center">
 <a href="https://facebook.com/dark.htmlii"> 
 
 ![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
