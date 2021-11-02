@@ -24,7 +24,7 @@
 - 📫 mail to: 0xh7ml.py@gmail.com
 - ⚡ Fun fact **I'm fond of playing games and go to travel often.** 
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="500" height="320" />
 <br>
 
 
