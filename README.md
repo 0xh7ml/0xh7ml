@@ -1,5 +1,5 @@
 <a href="#">
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="100%"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="500" height="auto"/>
 </a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
