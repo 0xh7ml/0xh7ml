@@ -12,12 +12,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=0xh7ml)
 
 </div>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 
 ## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
