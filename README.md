@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="345" height="320" />
+</a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
 <h3 align="center">Tech enthusiast with a dream of breaking security</h3>
@@ -22,11 +24,9 @@
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
 - 🌱 I’m currently learning **MERN Stack Development**
 - 📫 mail to: 0xh7ml.py@gmail.com
-- ⚡ Fun fact **I'm fond of playing games and go to travel often.** 
+- ⚡ Fun fact **I'm fond of playing games and go to travel often.**
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/code.gif" width="500" height="320" />
 <br>
-
 
 ## 🚀 Languages and Tools
 
