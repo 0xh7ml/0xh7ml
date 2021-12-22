@@ -86,6 +86,10 @@
         <li>
         <h4><a style="color:#2ac3de;text-decoration:none;"href="https://nordvpn.com/">NordVpn</a></h4>
     </li>
+     </li>
+        <li>
+        <h4><a style="color:#2ac3de;text-decoration:none;"href="https://todoist.com/">Doist Inc.</a></h4>
+    </li>
 </ul>
 <br>
 <br>
@@ -109,6 +113,10 @@
  ### <em>https://un-css.herokuapp.com </em>
 
 <img src="https://raw.githubusercontent.com/0xh7ml/unCSS/main/un-css.png" width="50%">
+ 
+ ### Bondi Pathshala Demo
+ 
+<img src="https://raw.githubusercontent.com/0xh7ml/school-site/main/demo.png" width="50%">
  
 </center>
 <br>
