@@ -99,12 +99,12 @@
 <center>
 
  
- ### <em>https://0xh7ml.github.io/food_network/ </em>
+ ### <em>Food Network demo </em>
 
 <img src="https://raw.githubusercontent.com/0xh7ml/food_network/master/project_demo.png" width="50%">
 <br>
  
- ### <em>https://0xh7ml.github.io/leader_board/ </em>
+ ### <em>Leader board demo </em>
  
 <img src="https://raw.githubusercontent.com/0xh7ml/leader_board/master/leader_board.png" width="50%">
 
@@ -117,6 +117,10 @@
  ### Bondi Pathshala Demo
  
 <img src="https://raw.githubusercontent.com/0xh7ml/school-site/main/demo.png" width="50%">
+ 
+ ### Blog site demo
+ 
+<img src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/remonsec.png" width="50%">
  
 </center>
 <br>
