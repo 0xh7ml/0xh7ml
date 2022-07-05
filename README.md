@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="GIF" src="https://raw.githubusercontent.com/0xh7ml/0xh7ml/main/img/coder.png" width="100%" height="auto"/></a>
 <div align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saikat</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="15px"  width="15px">, I'm Saikat</h1>
 <h3 align="center">Tech enthusiast with a dream of breaking security</h3>
 <a href="https://facebook.com/dark.htmlii"> 
 
