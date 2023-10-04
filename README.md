@@ -15,7 +15,7 @@
 - 🚏  From Bangladesh
 - 🎓 Undergraduate
 - 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently focusing on **Pentesting**
 - 📫 mail to: 0xh7ml.py@gmail.com
 - ⚡ Fun fact **I'm fond of playing games and go to travel often.**
 
@@ -29,12 +29,6 @@
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
- ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
@@ -54,6 +48,8 @@
 </div>
 <br>
 <br>
+## **TryHackMe stats**
+<script src="https://tryhackme.com/badge/23221"></script>
 
 ## ✅ Acknowledged By
 
