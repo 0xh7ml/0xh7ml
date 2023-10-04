@@ -36,7 +36,7 @@
 </div>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
 
-<br><br><p>
+<br><br><br><br><p>
 
  **Note:** <em>Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </p>
@@ -48,8 +48,14 @@
 </div>
 <br>
 <br>
-## **TryHackMe stats**
-<script src="https://tryhackme.com/badge/23221"></script>
+
+## 📈 TryHackMe Stats
+
+<br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xh7ml.png" alt="TryHackMe">
+
+<br>
 
 ## ✅ Acknowledged By
 
