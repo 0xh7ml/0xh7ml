@@ -111,7 +111,7 @@
 
 <br> 
 
- ### <em>https://un-css.herokuapp.com </em>
+ ### <em>UnCSS | Remove unused CSS </em>
 
 <img src="https://raw.githubusercontent.com/0xh7ml/unCSS/main/un-css.png" width="50%">
  
