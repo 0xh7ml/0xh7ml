@@ -49,14 +49,6 @@
 <br>
 <br>
 
-## 📈 TryHackMe Stats
-
-<br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xh7ml.png" alt="TryHackMe">
-
-<br>
-
 ## ✅ Acknowledged By
 
   <br><em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
