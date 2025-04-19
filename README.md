@@ -64,7 +64,7 @@
 <br>
 <br>
 
-## 📈 My Bug Bounty Stats
+## 🐞 My Bug Bounty Stats
 <div align="center">
 <img src="https://yogosha-readme-stats.vercel.app/api?username=0xh7ml?" width="380"/>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radical&hide_border=true" width=380/> -->
