@@ -9,7 +9,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saikat.py)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xh7ml)
  [![Medium](https://img.shields.io/badge/Medium-%231C1C1C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@0xh7ml)
- [![Email](https://img.shields.io/badge/Email-%23FF5722?style=flat-square&logo=gmail&logoColor=white)](mailto:mailtosaikat@protonmail.com) 
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=About.me&logoColor=white)](https://itsaikat.com)
 
 </div>
 
