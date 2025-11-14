@@ -39,6 +39,7 @@
       <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
