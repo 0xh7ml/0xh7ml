@@ -75,13 +75,9 @@
 
 <table align="center">
   <tr>
-    <th>👨‍💻 GitHub Stats</th>
     <th>🐞 Bug Bounty Stats</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&count_private=true&theme=dark&hide_border=true" width="380"/>
-    </td>
     <td align="center">
       <img src="https://yogosha-readme-stats.vercel.app/api?username=0xh7ml" width="380"/>
     </td>
